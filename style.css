@@ -1,0 +1,44 @@
+body{
+    font-size: 0.88rem;
+}
+
+.carousel-item-img {
+    width: 100%;
+}
+
+.nav-link {
+    background-color: rgb(245, 245, 254);
+    text-align: center;
+    padding: 20% 8%;
+}
+
+.nav-pills .nav-link.active{
+    background-color: #fff;
+    color: #000;
+}
+
+figure {
+    margin-bottom: 2%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.pop-products-item {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.service-choices-item {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-img {
+    width: 100%;
+}
